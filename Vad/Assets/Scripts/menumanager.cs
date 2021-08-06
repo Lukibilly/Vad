@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class onboardingmanager : MonoBehaviour
+public class menumanager : MonoBehaviour
 {
-    public void goToMainMenu(){
+    public void ARScenePlants(){
         Debug.Log("Load new scene");
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("ARScene");
     }
 }

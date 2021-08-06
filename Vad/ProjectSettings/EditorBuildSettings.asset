@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Onboarding.unity
     guid: 7c13907a8185f7141a30b4db4c411401
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7934b918f1cf07941bc2c01e47fe1546
+  - enabled: 1
     path: Assets/Scenes/ARScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
