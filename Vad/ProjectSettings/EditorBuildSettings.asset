@@ -12,8 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 7934b918f1cf07941bc2c01e47fe1546
   - enabled: 1
-    path: Assets/Scenes/ARScene.unity
+    path: Assets/Scenes/ARScenePlants.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARSceneMushrooms.unity
+    guid: ecb440d033434c6419ca465d5a97089d
+  - enabled: 1
+    path: Assets/Scenes/ARSceneArt.unity
+    guid: 74108146ab3502541bb882c70edd106e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 199079035aca9db4b9a5fd950da2435f, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a79bc5ded0265df41b5b5fc5c2296f55, type: 2}
