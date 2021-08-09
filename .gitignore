@@ -37,3 +37,4 @@ sysinfo.txt
 *.unitypackage
 Vad/Packages/com.ptc.vuforia.engine-10.0.12.tgz
 Vad/QCAR/somedata16
+*.log
