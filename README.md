@@ -6,6 +6,7 @@ Instructions for Unity:
 3. Download Vuforia from https://developer.vuforia.com/downloads/sdk, you will need to register and log in for that.
 4. Double click the downloaded Vuforia package while having the Vad project open
 5. Press play and enjoy
+
 Instructions for Anroid:
 1. Download build1.apk from Vad/Vad/Builds/Android/
 2. Use adb or another tool to install it on your phone
