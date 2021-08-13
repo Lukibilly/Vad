@@ -11,3 +11,11 @@ Instructions for Anroid:
 1. Download build1.apk from Vad/Vad/Builds/Android/
 2. Use adb or another tool to install it on your phone
 3. Run and enjoy
+
+Instructions for IOS:
+1.
+2.
+3.
+
+Possible problems:
+1. Only for Unity. When cloning the project from Github, the overlayed image of the chicken on a skateboard detaches itself from the Quad that is a child to the MacDonalds tracked image logo. To solve this, To solve this, add the skateboard chicken material to the quad components. 
