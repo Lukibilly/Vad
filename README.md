@@ -13,9 +13,8 @@ Instructions for Anroid:
 3. Run and enjoy
 
 Instructions for IOS:
-1.
-2.
-3.
+1. Please follow the instructions to open the project in Unity
+2. Build and run the application, you can follow the following video made by Maurizio Vergari: https://www.youtube.com/watch?v=oU31ht2R54Q&ab_channel=MaurizioVergari  
 
 Possible problems:
 1. Only for Unity. When cloning the project from Github, the overlayed image of the chicken on a skateboard detaches itself from the Quad that is a child to the MacDonalds tracked image logo. To solve this, To solve this, add the skateboard chicken material to the quad components. 
